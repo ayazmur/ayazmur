@@ -34,7 +34,6 @@
 
 - :zap: In my free time, I play videgames!
 
-- :mailbox:How to reach me: [![gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](href="mailto:ayazikmur@gmail.com")
 </div>
 
 
